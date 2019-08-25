@@ -1,2 +1,4 @@
 added new line
+to check reset
+work directory
 file1 newly added on 25th august
